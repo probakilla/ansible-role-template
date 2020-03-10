@@ -1,0 +1,7 @@
+{
+    "role_name": "ansible-role-default",
+    "description": "Default description",
+    "short_name": "default",
+    "author": "Probakilla",
+    "license": "GPLv3"
+}
